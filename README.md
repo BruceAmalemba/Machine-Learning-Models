@@ -26,7 +26,7 @@ Welcome to the **ML Odyssey Hub**, a premier destination for groundbreaking mach
 ## 🛠️ **Get Started in Minutes**
 1. **Clone the Repository**:
    ```bash
- git clone https://github.com/BruceAmalemba/ml-odyssey-hub.git
+   git clone https://github.com/BruceAmalemba/Machine-Learning-Models.git
   ## 🌍 **Join the AI Revolution**
 
 - ⭐ **Star this repo** to champion our mission and get instant updates on groundbreaking projects!
